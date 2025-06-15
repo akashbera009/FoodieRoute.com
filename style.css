@@ -356,7 +356,38 @@ about .row{
   font-size: 1.4rem;
   color: var(--light-color);
 }
-
+#restaurant{
+  background-color: #f8f9fa;
+}
+.box-container{
+  margin-bottom: 8rem;
+}
+.box{
+    background: #f8f5f2;
+      border-radius: 20px;
+      box-shadow: 8px 8px 16px #d1cdc9,
+                  -8px -8px 16px #ffffff;
+      padding: 30px;
+      /* width: 320px; */
+      text-align: center;
+      transition: all 0.3s ease;
+}
+.box:hover {
+      box-shadow: inset 8px 8px 16px #d1cdc9,
+                  inset -8px -8px 16px #ffffff;
+    }
+.btn{
+   /* margin-top: 20px; */
+      padding: 10px 20px;
+      background-color: #ff7043;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      box-shadow: 4px 4px 8px #c0562b,
+                  -4px -4px 8px #ffa07a;
+      cursor: pointer;
+      font-weight: bold;
+}
 .blogs .box-container .box .content .icon a:hover{
   color:var(--green);
 }
