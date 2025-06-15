@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🍽️ FoodieRoute.com
 
 **FoodieRoute.com** is a dynamic web application that allows users to order food from the nearest available restaurants. Built using HTML, CSS, JavaScript, PHP, and SQL, the platform is designed to provide a seamless food ordering experience by connecting users with local eateries based on proximity and availability.
@@ -38,8 +37,6 @@
 ---
 
 ## 📁 Project Structure (Simplified)
-
-```
 
 FoodieRoute.com/
 ├── index.html
@@ -94,11 +91,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Akash, Subhayan, and Sourajyoti.
+Made by Akash, Subhayan, and Sourajyoti.
 
 ```
 
----
-
-Let me know if you'd like me to include screenshots, a live demo link, or a sample database schema preview in the README!
-```
